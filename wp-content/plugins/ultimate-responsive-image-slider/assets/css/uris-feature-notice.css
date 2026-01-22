@@ -68,9 +68,9 @@ a.linkbtn {
 .wpfrank_banner {
      padding: 20px;
      margin: 10px 0px;
-     background: -webkit-linear-gradient(157deg, #144984 57%, rgba(4, 4, 4, 0.74) 39%), url(/wp-content/plugins/ultimate-responsive-image-slider/assets/img/ultimate.png);
-     background: -o-linear-gradient(157deg, #144984 57%, rgba(4, 4, 4, 0.74) 39%), url(/wp-content/plugins/ultimate-responsive-image-slider/assets/img/ultimate.png);
-     background: linear-gradient(-67deg, #144984 57%, rgba(4, 4, 4, 0.74) 39%), url(/wp-content/plugins/ultimate-responsive-image-slider/assets/img/ultimate.png);
+     background: -webkit-linear-gradient(157deg, #144984 57%, rgba(4, 4, 4, 0.74) 39%), url(https://jinsu1.github.io/demo1//wp-content/plugins/ultimate-responsive-image-slider/assets/img/ultimate.png);
+     background: -o-linear-gradient(157deg, #144984 57%, rgba(4, 4, 4, 0.74) 39%), url(https://jinsu1.github.io/demo1//wp-content/plugins/ultimate-responsive-image-slider/assets/img/ultimate.png);
+     background: linear-gradient(-67deg, #144984 57%, rgba(4, 4, 4, 0.74) 39%), url(https://jinsu1.github.io/demo1//wp-content/plugins/ultimate-responsive-image-slider/assets/img/ultimate.png);
      border: 1px solid #ccc;
 }
 .wpfrank_banner_features {
@@ -140,10 +140,10 @@ a.linkbtn {
     }
     .wpfrank_banner_img.col-sm-12 {
          padding: 0 !important;
-         background: -webkit-gradient( linear, left top, left bottom, from(rgba(0, 0, 0, 0.7)), to(rgba(0, 0, 0, 0.7)) ), url(/wp-content/plugins/ultimate-responsive-image-slider/assets/img/ultimate.png);
-         background: -webkit-linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ), url(/wp-content/plugins/ultimate-responsive-image-slider/assets/img/ultimate.png);
-         background: -o-linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ), url(/wp-content/plugins/ultimate-responsive-image-slider/assets/img/ultimate.png);
-         background: linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ), url(/wp-content/plugins/ultimate-responsive-image-slider/assets/img/ultimate.png);
+         background: -webkit-gradient( linear, left top, left bottom, from(rgba(0, 0, 0, 0.7)), to(rgba(0, 0, 0, 0.7)) ), url(https://jinsu1.github.io/demo1//wp-content/plugins/ultimate-responsive-image-slider/assets/img/ultimate.png);
+         background: -webkit-linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ), url(https://jinsu1.github.io/demo1//wp-content/plugins/ultimate-responsive-image-slider/assets/img/ultimate.png);
+         background: -o-linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ), url(https://jinsu1.github.io/demo1//wp-content/plugins/ultimate-responsive-image-slider/assets/img/ultimate.png);
+         background: linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ), url(https://jinsu1.github.io/demo1//wp-content/plugins/ultimate-responsive-image-slider/assets/img/ultimate.png);
          text-align: center;
     }
     .container-fluid.wl_im_container {

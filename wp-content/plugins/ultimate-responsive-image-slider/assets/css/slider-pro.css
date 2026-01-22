@@ -315,11 +315,11 @@
 /* Touch Swipe
 --------------------------------------------------*/
 .sp-grab {
-	cursor: url(/wp-content/plugins/ultimate-responsive-image-slider/assets/css/images/openhand.cur), move;
+	cursor: url(https://jinsu1.github.io/demo1//wp-content/plugins/ultimate-responsive-image-slider/assets/css/images/openhand.cur), move;
 }
 
 .sp-grabbing {
-	cursor: url(/wp-content/plugins/ultimate-responsive-image-slider/assets/css/images/closedhand.cur), move;
+	cursor: url(https://jinsu1.github.io/demo1//wp-content/plugins/ultimate-responsive-image-slider/assets/css/images/closedhand.cur), move;
 }
 
 .sp-selectable {

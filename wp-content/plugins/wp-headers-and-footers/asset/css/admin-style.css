@@ -245,7 +245,7 @@
   left: 0;
   top: 50%;
   transform: translateY(-50%);
-  background-image: url("/wp-content/plugins/wp-headers-and-footers/asset/img/icons.png");
+  background-image: url("https://jinsu1.github.io/demo1//wp-content/plugins/wp-headers-and-footers/asset/img/icons.png");
 }
 html[dir="rtl"] .settings_page_wp-headers-and-footers .wpbr-sidebar .sidebar .plugins_lists a::after {
   left: auto;
@@ -313,7 +313,7 @@ html[dir="rtl"] .settings_page_wp-headers-and-footers .wpbr-sidebar .sidebar ul 
   left: 0;
   top: 50%;
   transform: translateY(-50%);
-  background-image: url("/wp-content/plugins/wp-headers-and-footers/asset/img/icons.png");
+  background-image: url("https://jinsu1.github.io/demo1//wp-content/plugins/wp-headers-and-footers/asset/img/icons.png");
 }
 .settings_page_wp-headers-and-footers
   .wpbr-sidebar
@@ -388,7 +388,7 @@ html[dir="rtl"] .settings_page_wp-headers-and-footers .wpbr-sidebar .sidebar h2 
   left: 0;
   top: 50%;
   transform: translateY(-50%);
-  background-image: url("/wp-content/plugins/wp-headers-and-footers/asset/img/icons.png");
+  background-image: url("https://jinsu1.github.io/demo1//wp-content/plugins/wp-headers-and-footers/asset/img/icons.png");
 }
 .settings_page_wp-headers-and-footers .sidebar .dashicons-share::before {
   background-position: -23px 0;
@@ -410,7 +410,7 @@ html[dir="rtl"] .settings_page_wp-headers-and-footers .wpbr-sidebar .sidebar h2 
   left: 0;
   top: 50%;
   transform: translateY(-50%);
-  background-image: url("/wp-content/plugins/wp-headers-and-footers/asset/img/icons.png");
+  background-image: url("https://jinsu1.github.io/demo1//wp-content/plugins/wp-headers-and-footers/asset/img/icons.png");
 }
 .settings_page_wp-headers-and-footers .wpbr-sidebar .sidebar .plugins_lists {
   padding: 15px 15px 10px 15px;

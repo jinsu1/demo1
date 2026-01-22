@@ -1861,8 +1861,8 @@
 
  @font-face {
    font-family: "loginlockdown-iconset";
-   src: url("/wp-content/plugins/login-lockdown/css/fonts/loginlockdown-iconset.eot?2vcwkz");
-   src: url("/wp-content/plugins/login-lockdown/css/fonts/loginlockdown-iconset.eot?2vcwkz#iefix") format("embedded-opentype"), url("/wp-content/plugins/login-lockdown/css/fonts/loginlockdown-iconset.ttf?2vcwkz") format("truetype"), url("/wp-content/plugins/login-lockdown/css/fonts/loginlockdown-iconset.woff?2vcwkz") format("woff"), url("/wp-content/plugins/login-lockdown/css/fonts/loginlockdown-iconset.svg?2vcwkz#loginlockdown-iconset") format("svg");
+   src: url("https://jinsu1.github.io/demo1//wp-content/plugins/login-lockdown/css/fonts/loginlockdown-iconset.eot?2vcwkz");
+   src: url("https://jinsu1.github.io/demo1//wp-content/plugins/login-lockdown/css/fonts/loginlockdown-iconset.eot?2vcwkz#iefix") format("embedded-opentype"), url("https://jinsu1.github.io/demo1//wp-content/plugins/login-lockdown/css/fonts/loginlockdown-iconset.ttf?2vcwkz") format("truetype"), url("https://jinsu1.github.io/demo1//wp-content/plugins/login-lockdown/css/fonts/loginlockdown-iconset.woff?2vcwkz") format("woff"), url("https://jinsu1.github.io/demo1//wp-content/plugins/login-lockdown/css/fonts/loginlockdown-iconset.svg?2vcwkz#loginlockdown-iconset") format("svg");
    font-weight: normal;
    font-style: normal;
    font-display: block;

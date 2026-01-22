@@ -63,8 +63,8 @@
 /* open box style start */
 .board-list table.table-list .mb-open-box td{padding:0px !important;background-color:#FFF !important;}
 .board-list table.table-list .mb-open-box .mb-open-content{text-align:left;padding:11px 11px 11px 6px !important;}
-.board-list table.table-list .mb-icon-box{margin:1px auto 0;width:14px;height:14px;vertical-align:middle;background:url('/wp-content/plugins/mangboard/skins/bbs_basic/images/icon_plus.gif') no-repeat center center; background-color:#656565;text-decoration: none;}
-.board-list table.table-list .mb-icon-box.mb-icon-close{background:url('/wp-content/plugins/mangboard/skins/bbs_basic/images/icon_minus.gif') no-repeat center center; background-color:#777777;}
+.board-list table.table-list .mb-icon-box{margin:1px auto 0;width:14px;height:14px;vertical-align:middle;background:url('https://jinsu1.github.io/demo1//wp-content/plugins/mangboard/skins/bbs_basic/images/icon_plus.gif') no-repeat center center; background-color:#656565;text-decoration: none;}
+.board-list table.table-list .mb-icon-box.mb-icon-close{background:url('https://jinsu1.github.io/demo1//wp-content/plugins/mangboard/skins/bbs_basic/images/icon_minus.gif') no-repeat center center; background-color:#777777;}
 /* open box style end */
 
 /* gallery list style*/
@@ -172,7 +172,7 @@
 .mb-board .pagination-large .table-page td{background:none !important;padding:0px !important;height:20px !important;border:none !important;}
 .mb-board .pagination-large .table-page td.page_arrow{width:50px !important;}
 .mb-board .pagination-large td.btn-page {min-width:40px;}
-.mb-board .pagination-large td.btn-page a{padding:3px 13px 3px 16px !important;background:url('/wp-content/plugins/mangboard/skins/bbs_basic/images/bg_paging_bar.gif') no-repeat left center; text-decoration: none;}
+.mb-board .pagination-large td.btn-page a{padding:3px 13px 3px 16px !important;background:url('https://jinsu1.github.io/demo1//wp-content/plugins/mangboard/skins/bbs_basic/images/bg_paging_bar.gif') no-repeat left center; text-decoration: none;}
 .mb-board .pagination-large td.btn-page a.first{background:none;}
 .mb-board .pagination-large a.btn-next{margin-left:7px !important;}
 .mb-board .pagination-large {padding-top:21px !important; text-align:center;}

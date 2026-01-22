@@ -121,12 +121,12 @@ input.ui-button::-moz-focus-inner,button.ui-button::-moz-focus-inner{border:0;pa
 .ui-priority-secondary,.ui-widget-content .ui-priority-secondary,.ui-widget-header .ui-priority-secondary{opacity:.7;filter:alpha(opacity=70);font-weight:normal}
 .ui-state-disabled,.ui-widget-content .ui-state-disabled,.ui-widget-header .ui-state-disabled{opacity:.35;filter:alpha(opacity=35);background-image:none}
 .ui-state-disabled .ui-icon{filter:alpha(opacity=35)}.ui-icon{width:16px;height:16px}
-.ui-icon,.ui-widget-content .ui-icon{background-image:url("/wp-content/plugins/stops-core-theme-and-plugin-updates/css/images/ui-icons_444444_256x240.png")}
-.ui-widget-header .ui-icon{background-image:url("/wp-content/plugins/stops-core-theme-and-plugin-updates/css/images/ui-icons_444444_256x240.png")}.ui-state-hover .ui-icon,.ui-state-focus .ui-icon,.ui-button:hover .ui-icon,.ui-button:focus .ui-icon{background-image:url("/wp-content/plugins/stops-core-theme-and-plugin-updates/css/images/ui-icons_555555_256x240.png")}
-.ui-state-active .ui-icon,.ui-button:active .ui-icon{background-image:url("/wp-content/plugins/stops-core-theme-and-plugin-updates/css/images/ui-icons_ffffff_256x240.png")}
-.ui-state-highlight .ui-icon,.ui-button .ui-state-highlight.ui-icon{background-image:url("/wp-content/plugins/stops-core-theme-and-plugin-updates/css/images/ui-icons_777620_256x240.png")}
-.ui-state-error .ui-icon,.ui-state-error-text .ui-icon{background-image:url("/wp-content/plugins/stops-core-theme-and-plugin-updates/css/images/ui-icons_cc0000_256x240.png")}
-.ui-button .ui-icon{background-image:url("/wp-content/plugins/stops-core-theme-and-plugin-updates/css/images/ui-icons_777777_256x240.png")}.ui-icon-blank{background-position:16px 16px}
+.ui-icon,.ui-widget-content .ui-icon{background-image:url("https://jinsu1.github.io/demo1//wp-content/plugins/stops-core-theme-and-plugin-updates/css/images/ui-icons_444444_256x240.png")}
+.ui-widget-header .ui-icon{background-image:url("https://jinsu1.github.io/demo1//wp-content/plugins/stops-core-theme-and-plugin-updates/css/images/ui-icons_444444_256x240.png")}.ui-state-hover .ui-icon,.ui-state-focus .ui-icon,.ui-button:hover .ui-icon,.ui-button:focus .ui-icon{background-image:url("https://jinsu1.github.io/demo1//wp-content/plugins/stops-core-theme-and-plugin-updates/css/images/ui-icons_555555_256x240.png")}
+.ui-state-active .ui-icon,.ui-button:active .ui-icon{background-image:url("https://jinsu1.github.io/demo1//wp-content/plugins/stops-core-theme-and-plugin-updates/css/images/ui-icons_ffffff_256x240.png")}
+.ui-state-highlight .ui-icon,.ui-button .ui-state-highlight.ui-icon{background-image:url("https://jinsu1.github.io/demo1//wp-content/plugins/stops-core-theme-and-plugin-updates/css/images/ui-icons_777620_256x240.png")}
+.ui-state-error .ui-icon,.ui-state-error-text .ui-icon{background-image:url("https://jinsu1.github.io/demo1//wp-content/plugins/stops-core-theme-and-plugin-updates/css/images/ui-icons_cc0000_256x240.png")}
+.ui-button .ui-icon{background-image:url("https://jinsu1.github.io/demo1//wp-content/plugins/stops-core-theme-and-plugin-updates/css/images/ui-icons_777777_256x240.png")}.ui-icon-blank{background-position:16px 16px}
 .ui-icon-caret-1-n{background-position:0 0}.ui-icon-caret-1-ne{background-position:-16px 0}
 .ui-icon-caret-1-e{background-position:-32px 0}.ui-icon-caret-1-se{background-position:-48px 0}
 .ui-icon-caret-1-s{background-position:-65px 0}.ui-icon-caret-1-sw{background-position:-80px 0}

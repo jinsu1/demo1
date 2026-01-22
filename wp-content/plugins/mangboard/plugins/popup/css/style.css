@@ -13,7 +13,7 @@
 .pop-confirm{z-index:9999993;overflow-y:auto;}
 .pop-alert{z-index:9999994;overflow-y:auto;}
 
-.pop-bg{display:none;background-image: url(/wp-content/plugins/mangboard/plugins/popup/images/bg_popup_black.png); position: absolute; width:100%; left:0; top:0;z-index: 9999990;}
+.pop-bg{display:none;background-image: url(https://jinsu1.github.io/demo1//wp-content/plugins/mangboard/plugins/popup/images/bg_popup_black.png); position: absolute; width:100%; left:0; top:0;z-index: 9999990;}
 .mb-pop .pop-title{padding:0px 0px 3px !important;font-weight:bold;line-height:1.4 !important;}
 .mb-pop .pop-title-confirm{padding:18px 0px 8px !important;line-height:1.6 !important;font-size:14px;}
 

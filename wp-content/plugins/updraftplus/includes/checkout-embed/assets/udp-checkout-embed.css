@@ -87,7 +87,7 @@ body.udp-modal-is-opened {
 	content: '';
 	-webkit-animation: spin 1s linear infinite;
 	animation: spin 1s linear infinite;
-	background: url('/wp-content/plugins/updraftplus/includes/checkout-embed/assets/loader.svg') center center;
+	background: url('https://jinsu1.github.io/demo1//wp-content/plugins/updraftplus/includes/checkout-embed/assets/loader.svg') center center;
 	background-size: cover;
 	line-height: 1;
 	text-align: center;
