@@ -1,0 +1,214 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+body {
+    word-break: keep-all;
+}
+
+#ast-scroll-top {display:none !important;}
+.mo_only {display:none;}
+.pc_only {display:block;}
+.e-con-full, .e-con>.e-con-inner {padding:0 !important;}
+
+/* 텍스트 강조(파랑) */
+.accent {color:#007BFF;}
+
+/* svg 채우기색 */
+#content .elementor-icon svg {fill:transparent;}
+
+/*header*/
+ .site-header {position: sticky;top:0;z-index: 999;}
+.main-header-menu .menu-item > a {border-bottom: 2px solid transparent;}
+	
+.main-header-menu .menu-item > a:hover,
+.main-header-menu .menu-item > a:focus { color: #000000 !important; border-bottom: 2px solid #000000; box-sizing:border-box; }
+.ast-below-header-wrap {background-color:#fff; box-shadow:0 2px 6px rgba(0, 0, 0, 0.15);}
+
+.ast-desktop .ast-primary-header-bar .main-header-menu > .menu-item {line-height:110px;}
+
+.menu-item a {border-bottom:2px solid transparent;}
+header .current-menu-item a {color:#000 !important;border-bottom:2px solid #000 !important;}
+
+body .site-header {
+    position: fixed;
+    width: 100%;
+    background: transparent;
+    /*transition: background-color 0.3s ease, box-shadow 0.3s ease;*/
+    z-index: 999;
+}
+
+body .ast-primary-header-bar {background-color:transparent;}
+body .main-header-bar,
+body .ast-above-header-bar {border:none;}
+
+/* 스크롤 시 헤더 스타일 */
+body .site-header.scrolled {
+    background-color: #ffffff;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.08);
+}
+
+/* 관리자바 있을 때 보정 */
+.admin-bar body.home .site-header {
+    top: 32px;
+}
+
+/* wrapper */
+.dropdown_container {
+  position: relative;
+}
+
+/* select */
+.dropdown_container .ff-el-input--content select.ff-el-form-control {
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  padding-right: 40px; /* 화살표 공간 */
+}
+
+/* 드롭다운 화살표 */
+.dropdown_container .ff-el-input--content::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  right: 18px;
+  width: 8px;
+  height: 8px;
+
+  border-right: 1.5px solid #959595;
+  border-bottom: 1.5px solid #959595;
+
+  transform: translateY(-60%) rotate(45deg);
+  pointer-events: none;
+}
+
+#ff_3_5_dropdown {padding:15px !important; min-width:120px;}
+.dropdown_container #ff_4_2_dropdown {height:45px;}
+
+/*footer*/
+.alignnone.size-medium.wp-image-423 {margin: 24px 0; width:278px;}
+.site-footer p {margin-bottom:0;}
+.footer_logo {width:107px; margin: 24px 0; display:block;}
+.cs_title {font-size: 18px; font-weight: 500; margin-bottom: 11px; display:block;}
+.cs_desc {color:#007BFF; font-size:30px; font-weight:600; margin-bottom:32px; display:block;}
+.footer_info_title {font-size:18px; font-weight:500; margin-bottom:10px; display:block;}
+.footer_info_box {list-style: none; margin:0; margin-bottom: 20px; display:block;}
+.footer_info {margin-right:10px; font-size:14px; line-height:20px; display: inline-block;}
+.copyright {font-size:12px; font-weight:500; margin-bottom:32px; display:block;}
+.ast-builder-html-element p:last-child.caution {font-size:18px; font-weight:600; margin-bottom: 166px; display:block;}
+.menu-item:last-child {font-weight:700;}
+#fluentform_3 .ff-el-form-check-label span {color:#fff;}
+
+footer .site-below-footer-wrap {display:none !important;}
+
+
+/*footer_sns*/
+.sns_box {display:none;}
+
+/*하단고정 입력폼*/
+#wpfront-notification-bar {overflow:visible;}
+#wpfront-notification-bar img {position:absolute; top:-200px; left:60px; z-index:1300;}
+#wpfront-notification-bar-table fieldset {display: flex;}
+#fluentform_3 .ff-t-cell.ff-t-column-1 {flex-basis:fit-content !important;}
+#fluentform_3 .ff-t-cell.ff-t-column-2 {flex-basis:fit-content !important; flex-grow:0 !important;}
+#fluentform_3 .ff-t-container.ff-column-container.ff_columns_total_2 {margin-left:8px;}
+#fluentform_3 .ff-el-form-check.ff-el-form-check- {width:150px;}
+#wpfront-notification-bar-table .frm-fluent-form .ff-t-container {width:fit-content; gap:8px;}
+#wpfront-notification-bar {padding:0 60px 0 240px;}
+#wpfront-notification-bar {height:80px !important;}
+#wpfront-notification-bar .fluentform .ff-el-group {margin-bottom:0;}
+.fluentform .ff-el-form-control {height:45px;}
+#ff_3_3_dropdown {width:150px;}
+input.ff-el-form-control.time {width:130px;}
+.ff-default .ff-el-form-control {color: #959595 !important;}
+
+form.fluent_form_3 .ff-btn-submit:not(.ff_btn_no_style) { background-color:#000 !important; width:250px; height:45px;}
+#fluentform_3 .fluentform .error.text-danger{font-weight:700; color:#fff;}
+#fluentform_3_success {display:none;}
+#wpfront-notification-bar-spacer .ff-default .ff-el-form-control {border-radius:4px;}
+
+#fluentform_3_success {display:block;}
+
+/*모바일 하단 고정 입력 폼*/
+#modalFormContainer .ast-builder-grid-row {display:block;}
+#modalFormContainer .ff-el-form-check-label span {color:#000;}
+#modalFormContainer .ff-default .ff_btn_style {width:100%; height:48px; font-size:14px;}
+#modalFormContainer .ff-el-form-check.ff-el-form-check- {width:100%;}
+#fluentform_4 .ff-el-group.ff-text-left.submit_.counsel_mo.ff_submit_btn_wrapper {border-radius:0; margin-bottom:0;}
+#fluentform_4 .ff-btn.ff-btn-submit.ff-btn-md.ff_btn_style {border-radius:0;}
+#modalFormContainer p {margin-bottom:0;}
+#modalFormContainer .footer-widget-area.widget-area.site-footer-focus-item.footer-widget-area-inner {margin-bottom:0;}
+
+@media all and (min-width: 921px) and (max-width:1024px) {
+	.main-header-menu .menu-link, .main-header-menu>a {padding: 0 0.75em;}
+}
+
+@media all and (max-width: 921px) {
+  .mo_only {display:block;}
+  .pc_only {display:none;}
+	
+  /*header*/
+	body .ast-primary-header-bar {background-color:#fff;}
+	#ast-mobile-header {background-color:#fff;}
+	#content {padding-top:187px;}
+	#ast-mobile-header.ast-mobile-header-wrap .ast-below-header-bar, .ast-below-header-bar .site-below-header-wrap { min-height:47px;}
+	
+  .ast-header-break-point .ast-builder-menu-1 .menu-item > .menu-link {font-size:15px !important;}
+  .ast-below-header-wrap {overflow:auto; -webkit-overflow-scrolling: touch; border-bottom: 1px solid #eee;}
+  .ast-builder-grid-row {overflow:auto;}
+  .ast-builder-grid-row::-webkit-scrollbar {display:none;}
+  .ast-below-header-wrap::-webkit-scrollbar {display:none;}
+  .ast-builder-grid-row.ast-grid-center-col-layout-only {justify-content:flex-start;}
+  .ast-builder-grid-row {overflow-x: auto;cursor: grab;}
+  .ast-builder-grid-row.dragging {cursor: grabbing;}
+  .ast-builder-grid-row {user-select: none;}
+	.ast-header-break-point .main-navigation {justify-content:center;}
+	.ast-header-break-point .main-navigation ul .menu-item .menu-link {padding:0;}
+ 
+  .ast-builder-menu .main-header-menu { display: flex; flex-wrap: nowrap; width: auto;}
+
+  .ast-builder-menu .main-header-menu > li { flex: 0 0 auto; white-space: nowrap;}
+
+	.ast-builder-menu .main-header-menu > li {margin-right:20px;}
+	.ast-header-break-point .ast-below-header-bar,
+	.ast-header-break-point .main-header-menu {background-color: transparent;}
+	.ast-header-break-point .ast-primary-header-bar {border-bottom-width:0;}
+	.ast-header-break-point .main-navigation {display:flex;}
+ .site-above-footer-wrap { min-height:44px !important; height:44px !important;}
+	#astra-footer-menu .menu-item > a {font-size:12px !important;}
+	.footer_logo {width:81px; margin: 24px 0; display:block;}
+	.cs_title {font-size:12px; margin-bottom:0px;}
+	.cs_desc {font-size:20px; margin-bottom:16px;}
+	
+	/*footer_sns*/
+	.sns_box {display:flex; margin-bottom:35px;}
+	.sns_kakao, .sns_blog {width:36px;}
+	.sns_kakao {margin-right:14px;}
+	
+	/*footer_info*/
+	.alignnone.size-medium.wp-image-423 {margin: 30px 0; width:200px;}
+	.footer_info_title {font-size: 12px; margin-bottom:7px;}
+	.footer_info_box {line-height:18px;}
+	.footer_info {font-size: 11px; line-height:18px;}
+	.copyright {font-size:10px; margin-bottom:36px;}
+	.ast-builder-html-element p:last-child.caution {font-size:15px; line-height:24px; margin-bottom:80px;}
+}
+
+@media all and (max-width:544px) {
+	h2.wp-block-heading {font-size:15px !important;}
+	#astra-footer-menu .menu-item > a {font-size:12px !important;}
+}
+
+@keyframes marqueeX {
+    from {
+        transform: translate3d(0, 0, 0);
+    }
+    to {
+        transform: translate3d(-50%, 0, 0);
+    }
+}
+
+.marqueex {
+    animation: marqueeX 20s linear infinite;
+    will-change: transform;
+}
+</style>
+<!-- end Simple Custom CSS and JS -->

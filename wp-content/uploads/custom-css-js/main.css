@@ -1,0 +1,25 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+/* 메인 배너 */
+div#n2-ss-3 .n2-ss-item-content.n2-ss-text.n2-ow-all p,
+div#n2-ss-2 .n2-ss-item-content.n2-ss-text.n2-ow-all p {
+  font-family: "Black Han Sans", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+#content .n2-ss-item-content {margin-bottom: 26px;}
+
+#content div.n2-ss-slider .nextend-bullet-bar .n2-bullet {width:26px; height:3px; padding:0 !important; background:#fff;}
+#content div.n2-ss-slider .nextend-bullet-bar .n2-bullet.n2-active {background:#007BFF !important;}
+.n2-ss-widget.n2-ss-control-bullet.n2-ow-all.n2-ss-control-bullet-horizontal {--widget-offset:48px !important;}
+.elementor-element.elementor-element-5ff4bd5 {flex:1;}
+.elementor-10 .elementor-element.elementor-element-7453c818 {margin:0 !important;}
+.elementor-10 .elementor-element.elementor-element-7453c818.elementor-element {width:100%;}
+
+@media all and (max-width:921px) {
+	/*배너*/
+	.n2-ss-slide.n2-ow.n2-ss-slide-11{height:60vh !important;}
+	#content .n2-ss-item-content {margin-bottom: 12px;}
+}</style>
+<!-- end Simple Custom CSS and JS -->
